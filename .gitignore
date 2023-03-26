@@ -1,0 +1,7 @@
+*.csv
+.*rst
+*build/*
+code/Selecting number of components/nonnegfac-python-master/*
+*.pyx
+code/custom tensorly
+.ipynb_checkpoints
